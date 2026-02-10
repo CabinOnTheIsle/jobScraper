@@ -1,6 +1,7 @@
 # Python Job Listing Scraper
 
 Simple job scraper that extracts job titles, company names, locations, and job description link into a generated csv file.
+This is part of the https://roadmap.sh/projects/job-listings-scraper project.
 
 ## Setup
 1. Clone the repository
